@@ -17,5 +17,9 @@ public class HelloWorld {
 		text.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
 		text.setVisible(true);
 	}
+	
+	public void nada() {
+		
+	}
 
 }
