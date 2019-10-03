@@ -1,6 +1,11 @@
 import javax.swing.JFrame;
 import javax.swing.JTextField;
 
+/**
+ * 
+ * @author dariop
+ *
+ */
 public class HelloWorld {
 
 	public static void main(String[] args) {
